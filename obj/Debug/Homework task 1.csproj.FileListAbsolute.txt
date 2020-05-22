@@ -1,0 +1,6 @@
+C:\Users\STEPAN\source\repos\Homework task 1\Homework task 1\bin\Debug\Homework task 1.exe.config
+C:\Users\STEPAN\source\repos\Homework task 1\Homework task 1\bin\Debug\Homework task 1.exe
+C:\Users\STEPAN\source\repos\Homework task 1\Homework task 1\bin\Debug\Homework task 1.pdb
+C:\Users\STEPAN\source\repos\Homework task 1\Homework task 1\obj\Debug\Homework task 1.csprojAssemblyReference.cache
+C:\Users\STEPAN\source\repos\Homework task 1\Homework task 1\obj\Debug\Homework task 1.exe
+C:\Users\STEPAN\source\repos\Homework task 1\Homework task 1\obj\Debug\Homework task 1.pdb
